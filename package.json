@@ -1,0 +1,18 @@
+{
+  "name": "magma",
+  "main": "./lib/magma",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "magma:toggle"
+  },
+  "repository": "https://github.com/atom/magma",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

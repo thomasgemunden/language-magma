@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle magma",
+        "command": "magma:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "magma",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "magma:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
